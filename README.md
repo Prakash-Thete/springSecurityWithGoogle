@@ -11,6 +11,7 @@ Spring Security Core
 **Reference link :**
 
 http://grails-plugins.github.io/grails-spring-security-core/v2/index.html
+
 http://grails-plugins.github.io/grails-spring-security-core/v2/guide/single.html#tutorials
 
 **Step 1 : Configuration** 
@@ -173,6 +174,7 @@ Google Oauth
 **Reference link :**
 
 https://grails.org/plugin/oauth
+
 https://github.com/manishkbharti/grailsOauthPluginDemo
 
 
